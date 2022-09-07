@@ -4,19 +4,28 @@ title: about
 permalink: /
 subtitle:
 
-profile:
-  align: right
-  image: prof_pic.jpeg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>+886-2 2788-3799#1714</p>
-    <p>128 Academia Road, Section 2</p>
-    <p>Nankang, Taipei 115, Taiwan.</p>
+# profile:
+#   align: center
+#   image: slam_members_2022.08.jpg
+#   image_circular: false # crops the image to make it circular
+#   address: >
+#     <p>+886-2 2788-3799#1714</p>
+#     <p>128 Academia Road, Section 2</p>
+#     <p>Nankang, Taipei 115, Taiwan.</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+<div class="col-sm mt-3 mt-md-0" style="display:table-cell; vertical-align:middle; text-align:center">
+	<a href="https://sinica-slam.github.io/">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/slam_members_2022.08.jpg">
+    </a>
+    <div class="caption">
+        Our current lab members and summer interns, 2022.08.31
+    </div>
+</div>
 
 Our research interests include speech processing, natural language processing, multimedia information retrieval, machine learning, and pattern recognition. Our research goal is to develop methods for analyzing, extracting, recognizing, indexing, and retrieving information from audio data, with special emphasis on speech and music.
 
