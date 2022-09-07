@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2021-06-01
 inline: true
 ---
 
-A simple inline announcement.
+Congratulations to Yao-Fei Cheng and Fan-Lin Wang for receiving the Travel Grant of ISCA Interspeech2021.

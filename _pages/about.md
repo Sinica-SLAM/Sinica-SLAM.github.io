@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>+886-2 2788-3799#1714</p>
+    <p>128 Academia Road, Section 2</p>
+    <p>Nankang, Taipei 115, Taiwan.</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Our research interests include speech processing, natural language processing, multimedia information retrieval, machine learning, and pattern recognition. Our research goal is to develop methods for analyzing, extracting, recognizing, indexing, and retrieving information from audio data, with special emphasis on speech and music.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In the field of speech, research has been focused mainly on speaker recognition, spoken language recognition, voice conversion, and spoken document retrieval/summarization. Our recent achievements include locally linear embedding-based approaches for voice conversion and post-filtering, discriminative autoencoders for speech/speaker recognition, and novel paragraph embedding methods for spoken document retrieval/summarization. Our ongoing research includes audio-visual speaker recognition and speech enhancement, subspace neural networks for spoken language/dialect/accent recognition, many-to-one/non-parallel voice conversion, and neural network-based spoken document retrieval/summarization and question answering. 　
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In the music field, research has been focused mainly on vocal melody extraction and automatic generation of music video. Our recent achievements in this field include an acoustic-phonetic F0 modeling framework for vocal melody extraction and an emotion-oriented pseudo song prediction and matching framework for automatic music video generation. We have successfully implemented a complete automatic music video generation system that can automatically edit a long user-generated video into a music-compliant short professional-like video. Our ongoing research includes continuous improvement of our own technologies and systems, cover song identification, and automatic generation of set list for concert video, so as to facilitate the management and retrieval of a large music database. Future research directions also include singing voice synthesis, speech to singing voice conversion, and music structure analysis/summarization.
