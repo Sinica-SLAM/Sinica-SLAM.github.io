@@ -167,7 +167,7 @@ order: 1
             <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/prof_pic.jpeg">
         </a>
         <div class="caption">
-            Wang, Hsin-Min
+          <a href="https://www.iis.sinica.edu.tw/pages/whm">Hsin-Min Wang (王新民)</a>
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
@@ -262,29 +262,27 @@ order: 1
 
 #### Undergraduate Students
 <div class="row mt-3">
-    <div class="col-sm mt-1 mt-md-1">
+    <div class="col-sm mt-3 mt-md-0">
         <!-- <div class="square">
         <a href="https://shinjiwlab.github.io/members/">
             <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/Dorsa.jpg">
         </a></div> -->
         <div class="caption">
-            Yu-cheng Lin (林妤謙)
+            Yu-Qian Lin (林妤謙)
         </div>
     </div>
     <!-- I am sep -->
     <div class="col-sm mt-3 mt-md-0">
-    </div>
-    <!-- I am sep -->
-    <div class="col-sm mt-3 mt-md-0">
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
+        <div class="caption">
+            Zhi-Gang Xie (謝至剛)
+        </div>
     </div>
 </div>
 <hr />
 
 #### Visitors & Collaborators
 <div class="row mt-3">
-    <div class="col-sm mt-1 mt-md-1">
+    <div class="col-sm mt-3 mt-md-0">
         <!-- <div class="square">
         <a href="https://shinjiwlab.github.io/members/">
             <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/yosukeK.jpg">
@@ -294,10 +292,8 @@ order: 1
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
+      <div class="caption">
+      </div>  
     </div>
 </div>
 
